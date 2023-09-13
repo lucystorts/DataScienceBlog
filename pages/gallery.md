@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Resume # Renamed Gallery to Resume 
+title: Resume # Re-named Gallery to Resume 
 color: rgb(29, 130, 130)
-feature-img: "assets/img/feature-img/swirl.png"
+feature-img: "assets/img/butterflies.png"
 permalink: /Resume/
 #gallery_path: "assets/img/pexels" 
 tags: [Page]
 ---
 
- ​Lucy Storts
+## ​Lucy Storts
+
 Objective​ - Currently looking for summer internships and full-time work post graduation in data science, data analysis, or statistics.
 CONTACT INFORMATION
 Provo, Utah

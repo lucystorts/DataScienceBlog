@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About
+color: rgb(29, 130, 130)
 permalink: /about/
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/butterflies.png"
 tags: [Page]
 ---
 
