@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me
 color: rgb(29, 130, 130)
-permalink: /about/
+permalink: /About Me/
 feature-img: "assets/img/butterflies.png"
 tags: [Page]
 ---
