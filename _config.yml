@@ -5,12 +5,12 @@ url: "https://lucystorts.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: Data Dilemmas and Discussions                    # site's title
 description: This blog will explore my different interests in data science and catalog my projects. Thanks for stopping by!      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+avatar: assets/img/picofme.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Data Dilemmas and Discussions  # Change Blog header text
-header_feature_image: assets/img/header/triangular.jpeg
+header_feature_image: assets/img/header/blogimage.png #YOU HAVE TO USE PNG IMAGES
 header_feature_image_responsive: true
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
@@ -34,8 +34,8 @@ comments:
   disqus_shortname:                                     # Your discus shortname for comments
   cusdis_app_id:                                        # Your cusdis data-app-id
   utterances:                                           # Enable by filling below information. For more info, go to https://utteranc.es
-    repo:                                               # your public comments repository (e.g. owner/repo)
-    issue-term:                                         # Issue term (e.g. "comment" consider issues with this word in the title as comments)
+    repo: lucystorts/Stat386                                              # your public comments repository (e.g. owner/repo)
+    issue-term: comment                                         # Issue term (e.g. "comment" consider issues with this word in the title as comments)
 
 # PAGINATION
 paginate: 5
