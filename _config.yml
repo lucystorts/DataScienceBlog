@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "Data Dilemmas and Discussions"
+baseurl: "/Stat386"
 url: "https://lucystorts.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
