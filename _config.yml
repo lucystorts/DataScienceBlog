@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/Stat386"
-url: "https://lucystorts.github.io"
+url: "https://lucystorts.github.io/DataScienceBlog/"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Data Dilemmas and Discussions                    # site's title
